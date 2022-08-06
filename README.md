@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on Arab Open University as Student
 - 🌱 I’m currently learning Android with Kotlin
+- 👌 I'm looking forward to gain more experience in my field<br>
+- 💬 Ask me about any topic related to android<br>
+- ⚡ have fun with coding
 
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/MostafaMohamed2002?label=Follow%20Me&style=social)](https://github.com/MostafaMohamed2002)
 <br>
