@@ -1,7 +1,4 @@
-# Hi there, I'm Mostafa Mohamed 👋
-
-
-
+<h1 align="left">Hi there, I'm Mostafa Mohamed 👋</h1>
 
 - 🔭 I’m currently working on Arab Open University as Student
 - 🌱 I’m currently learning Android with Kotlin
