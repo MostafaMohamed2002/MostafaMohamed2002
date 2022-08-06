@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Arab Open University as Student
 - 🌱 I’m currently learning Android with Kotlin
