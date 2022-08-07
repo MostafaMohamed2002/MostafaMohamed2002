@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Mostafa Mohamed 👋</h1>
+<h1 align="left">Hi there, I'm Mostafa Mohamed <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 - 🔭 I’m currently working on Arab Open University as Student
 - 🌱 I’m currently learning Android with Kotlin
