@@ -1,5 +1,6 @@
 <h1 align="left">Hi there, I'm Mostafa Mohamed <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
+
 - 🔭 I’m currently working on Arab Open University as Student
 - 🌱 I’m currently learning Android with Kotlin
 - 👌 I'm looking forward to gain more experience in my field<br>
@@ -10,16 +11,20 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Mostafa%20Mohamed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mostafa-mohamed-635a82168/)
-[![Mail](https://img.shields.io/badge/Mostafa0Mohamed2002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Mostafa0Mohamed2002@gmail.com)
+[![Mail](https://img.shields.io/badge/Mostafa0Mohamed2002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Mostafa0Mohamed2002@gmail.com) <p> <img src="https://komarev.com/ghpvc/?username=mostafamohamed2002&label=Profile%20views&color=0e75b6&style=flat" alt="mostafamohamed2002" /> </p>
+
+
 <br>
 <br>
 <br>
 
 <div align="center">
 <p style="display: flex; justify-contect: space-between;">
+
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=MostafaMohamed2002" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
+
   
 ## 📈 My Contributions <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=MostafaMohamed2002&theme=onedark)
