@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mostafamohamed2002&label=Profile%20views&color=0e75b6&style=flat" alt="mostafamohamed2002" /> </p>
+
 <h1 align="left">Hi there, I'm Mostafa Mohamed <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
@@ -11,8 +13,7 @@
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Mostafa%20Mohamed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mostafa-mohamed-635a82168/)
-[![Mail](https://img.shields.io/badge/Mostafa0Mohamed2002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Mostafa0Mohamed2002@gmail.com) <p> <img src="https://komarev.com/ghpvc/?username=mostafamohamed2002&label=Profile%20views&color=0e75b6&style=flat" alt="mostafamohamed2002" /> </p>
-
+[![Mail](https://img.shields.io/badge/Mostafa0Mohamed2002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Mostafa0Mohamed2002@gmail.com) 
 
 <br>
 <br>
