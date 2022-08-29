@@ -15,9 +15,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Mostafa%20Mohamed-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mostafa-mohamed-635a82168/)
 [![Mail](https://img.shields.io/badge/Mostafa0Mohamed2002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Mostafa0Mohamed2002@gmail.com) 
 
-<br>
-<br>
-<br>
 
 <div align="center">
 <p style="display: flex; justify-contect: space-between;">
@@ -59,8 +56,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaMohamed2002&show_icons=true&theme=Settingcardlocale)
 -->
 
-
-
-
-
-
+<!--
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qtnee79gabipmmjaihdcp1zz5&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+-->
