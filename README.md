@@ -25,11 +25,12 @@
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
-  
+<!--  
 ## 📈 My Contributions <br>
-![trophy](https://github-profile-trophy.vercel.app/?username=MostafaMohamed2002&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=MostafaMohamed2002&theme=onedark) -->
 <br><br>
-  
+
+<!--  
 ### Languages and Tools
 <table align="center">
     <td align="center" width="96">
@@ -52,3 +53,4 @@
         <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
 </table>
+-->
