@@ -16,12 +16,13 @@
 [![Mail](https://img.shields.io/badge/Mostafa0Mohamed2002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Mostafa0Mohamed2002@gmail.com) 
 
 
-<div align="center">
+<!-- <div align="center">
 <p style="display: flex; justify-contect: space-between;">
 
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=MostafaMohamed2002" />
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p>
+</p> -->
+![snake gif](https://github.com/mena-rizkalla/MostafaMohamed2002/blob/output/github-contribution-grid-snake.gif)
 
 <!--  
 ## 📈 My Contributions <br>
