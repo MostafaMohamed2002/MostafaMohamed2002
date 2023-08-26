@@ -3,8 +3,8 @@
 <h1 align="left">Hi there, I'm Mostafa Mohamed <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
-- 🔭 I’m currently working on Arab Open University as Student
-- 🌱 I’m currently learning Android with Kotlin
+- 🔭 I’m currently working at Arab Open University as Student
+- 🌱 I’m currently learning Data Structure and Algorithms, Android with Kotlin
 - 👌 I'm looking forward to gain more experience in my field<br>
 - 💬 Ask me about any topic related to android<br>
 - ⚡ have fun with coding
@@ -15,18 +15,17 @@
 [![Mail](https://img.shields.io/badge/Mostafa0Mohamed2002@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:Mostafa0Mohamed2002@gmail.com) 
 
 
-<!-- <div align="center">
-<p style="display: flex; justify-contect: space-between;">
+ <!-- <div align="left">
+<p style="display: flex; justify-contect: space-between;"> -->
 
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=MostafaMohamed2002" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-</p> -->
-![snake gif](https://github.com/mena-rizkalla/MostafaMohamed2002/blob/output/github-contribution-grid-snake.gif)
+<!-- <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=MostafaMohamed2002" /> -->
+<!-- <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" /> -->
+</p> 
+<!-- ![snake gif](https://github.com/mena-rizkalla/MostafaMohamed2002/blob/output/github-contribution-grid-snake.gif) -->
 
 <!--  
 ## 📈 My Contributions <br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=MostafaMohamed2002&theme=onedark) -->
-<br><br>
 
 <!--  
 ### Languages and Tools
@@ -50,13 +49,13 @@
         <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Rxjava"/>
         <br>&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
-</table>
--->
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaMohamed2002&show_icons=true&theme=Settingcardlocale)
--->
+</table> -->
+
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaMohamed2002&show_icons=true&theme=Settingcardlocale) -->
+
 
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qtnee79gabipmmjaihdcp1zz5&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamohamed2002&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
